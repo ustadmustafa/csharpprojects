@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\bin\Debug\net7.0\kolay.exe
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\bin\Debug\net7.0\kolay.deps.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\bin\Debug\net7.0\kolay.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\bin\Debug\net7.0\kolay.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\bin\Debug\net7.0\kolay.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\kolay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\kolay.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\kolay.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\kolay.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\kolay.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\refint\kolay.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\kolay.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\kolay.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\kolay\obj\Debug\net7.0\ref\kolay.dll
