@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\bin\Debug\net7.0\VotingUygulaması.exe
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\bin\Debug\net7.0\VotingUygulaması.deps.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\bin\Debug\net7.0\VotingUygulaması.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\bin\Debug\net7.0\VotingUygulaması.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\bin\Debug\net7.0\VotingUygulaması.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\VotingUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\VotingUygulaması.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\VotingUygulaması.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\VotingUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\VotingUygulaması.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\refint\VotingUygulaması.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\VotingUygulaması.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\VotingUygulaması.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\VotingUygulaması\obj\Debug\net7.0\ref\VotingUygulaması.dll
