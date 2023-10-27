@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\bin\Debug\net7.0\orta.exe
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\bin\Debug\net7.0\orta.deps.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\bin\Debug\net7.0\orta.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\bin\Debug\net7.0\orta.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\bin\Debug\net7.0\orta.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\orta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\orta.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\orta.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\orta.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\orta.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\refint\orta.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\orta.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\orta.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\orta\obj\Debug\net7.0\ref\orta.dll
