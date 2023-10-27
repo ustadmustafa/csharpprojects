@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\bin\Debug\net7.0\ATM.exe
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\bin\Debug\net7.0\ATM.deps.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\bin\Debug\net7.0\ATM.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\bin\Debug\net7.0\ATM.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\bin\Debug\net7.0\ATM.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ATM.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ATM.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ATM.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\refint\ATM.dll
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ATM.pdb
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ATM.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\c#projeleri\zor\ATM\obj\Debug\net7.0\ref\ATM.dll

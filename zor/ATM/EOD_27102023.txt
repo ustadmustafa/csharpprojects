@@ -1,0 +1,3 @@
+user1 - Para Çekme - ₺100,00
+user1 - Para Yatırma - ₺500,00
+Toplam bakiye: ₺1.400,00
